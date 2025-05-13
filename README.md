@@ -1,11 +1,14 @@
 # scraping-funds-explorer
 
-Webscraping no site https://www.fundsexplorer.com.br/ranking que pega as informações dos fundos imobiliários e as salva em um arquivo csv 
+Web scraping project that collects data from the website https://www.fundsexplorer.com.br/ranking, 
+extracting information about real estate investment funds (FIIs) and saving it into a CSV file.
 
 
 
-# Instruções para rodar o projeto:
+# How to run the project:
 
-1 - Instalar as dependências do projeto com o comando "pip install -r requirements.txt"
+1 - Install the project dependencies with the command:
+pip install -r requirements.txt
 
-2 - Rodar o comando "python3 main.py".
+2 - Run the script with the command:
+ "python3 main.py".
